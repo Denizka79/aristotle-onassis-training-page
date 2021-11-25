@@ -1,0 +1,81 @@
+.wrapper {
+    background-color: #eee;
+    margin: 20px 30px;
+    border-radius: 5px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #333;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.full-name, .years-of-life, .general-description {
+    text-align: center;
+}
+
+.full-name {
+    font-size: 63px;
+}
+
+.years-of-life {
+    margin-bottom: 5px;
+}
+
+.general-description {
+    margin-bottom: 20px;
+}
+
+.main-image-container, .general-description-2 {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 5px;
+    font-size: 14px;
+}
+
+.main-image-container {
+    text-align: center;
+}
+
+img {
+    border-radius: 100%;
+}
+
+.main-image-container p {
+    background-color:#ddd;
+    border-radius: 0;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+}
+
+.image-description {
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+ul {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 14px;
+}
+
+.lifeline-title {
+    margin-left: 50px;
+}
+
+.read-more {
+    text-align: center;
+    font-size: 14px;
+}
+
+.footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.copyright {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #333;
+    text-align: center;
+}
